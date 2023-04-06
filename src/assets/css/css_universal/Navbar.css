@@ -9,7 +9,8 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    width: 648px;
+    /* width: 648px; */
+    width: 509px;
 
 }
 .navbar-div-1 {

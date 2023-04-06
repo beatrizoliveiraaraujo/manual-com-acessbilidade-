@@ -16,6 +16,11 @@
     border: 0;
     font-family: var(--fonte);
     font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    background-color: var(--cor-bg);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
 }
 
 .navbarsearch-img{

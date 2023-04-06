@@ -12,6 +12,8 @@
     z-index: 100;
 }
 
+
+/* #contraste */
 .box-categoria-button {
     font-family: var(--fonte);
     font-weight: bolder;
@@ -65,6 +67,10 @@
 
 #li-categorias {
     text-decoration: none;
+}
+
+.logo-svg{
+    fill: var(--cor-texto);
 }
 
 @media only screen and (max-width: 900px) {
